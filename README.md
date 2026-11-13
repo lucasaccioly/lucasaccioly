@@ -51,7 +51,7 @@ sempre com foco em código legível, testado e fácil de manter.
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| **FinTrack** | Gestão de finanças pessoais full-stack: autenticação, dashboards e importação de extratos | React · TypeScript · Node · PostgreSQL |
+| **[FinTrack](https://github.com/lucasaccioly/fintrack)** | Finanças pessoais full-stack: dashboards, orçamentos com alertas, importação de extratos CSV e exportação PDF/Excel. Testes de integração e CI | React · TypeScript · Node · Prisma · PostgreSQL |
 | **API de Sorteios** | API REST de sorteios e bilhetes com autenticação, testes e documentação Swagger | Java · Spring Boot · PostgreSQL |
 | **Kanban em tempo real** | Quadro colaborativo com atualização ao vivo e resumo de tarefas por IA | React · Socket.io · Redis · OpenAI |
 
