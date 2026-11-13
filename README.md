@@ -51,11 +51,11 @@ sempre com foco em código legível, testado e fácil de manter.
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| **[FinTrack](https://github.com/lucasaccioly/fintrack)** | Finanças pessoais full-stack: dashboards, orçamentos com alertas, importação de extratos CSV e exportação PDF/Excel. Testes de integração e CI | React · TypeScript · Node · Prisma · PostgreSQL |
+| **[FinTrack](https://github.com/lucasaccioly/fintrack)** · [demo](https://fintrack-amber-pi.vercel.app) | Finanças pessoais full-stack: dashboards, orçamentos com alertas, importação de extratos CSV e exportação PDF/Excel. Testes de integração e CI | React · TypeScript · Node · Prisma · PostgreSQL |
 | **API de Sorteios** | API REST de sorteios e bilhetes com autenticação, testes e documentação Swagger | Java · Spring Boot · PostgreSQL |
 | **Kanban em tempo real** | Quadro colaborativo com atualização ao vivo e resumo de tarefas por IA | React · Socket.io · Redis · OpenAI |
 
-<sub>🚧 Projetos em desenvolvimento ativo. Os links aparecem aqui assim que cada um é publicado.</sub>
+<sub>🚧 API de Sorteios e Kanban em desenvolvimento ativo. Os links aparecem aqui assim que cada um é publicado.</sub>
 
 ### 📫 Contato
 
