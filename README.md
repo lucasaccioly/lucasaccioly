@@ -54,6 +54,7 @@ sempre com foco em código legível, testado e fácil de manter.
 | **[FinTrack](https://github.com/lucasaccioly/fintrack)** · [demo](https://fintrack-amber-pi.vercel.app) | Finanças pessoais full-stack: dashboards, orçamentos com alertas, importação de extratos CSV e exportação PDF/Excel. Testes de integração e CI | React · TypeScript · Node · Prisma · PostgreSQL |
 | **[API de Sorteios](https://github.com/lucasaccioly/sorteios-api)** · [demo](https://sorteios-api-dnr8.onrender.com) | API REST de rifas com sorteio auditável (commit-reveal), compra de números segura sob concorrência, JWT e Swagger. Testes de integração com Postgres real e CI | Java · Spring Boot · PostgreSQL |
 | **[FlowBoard](https://github.com/lucasaccioly/kanban-realtime)** · [demo](https://flowboard-indol-pi.vercel.app) | Kanban colaborativo em tempo real: arraste um cartão e ele muda na tela de todos, com presença, convite por link e resumo do quadro por IA. Testes com Postgres real e Socket.io de verdade, CI | React · TypeScript · Socket.io · Node · PostgreSQL |
+| **[Estruturas de dados em Python](https://github.com/lucasaccioly/python-data-structures)** | Lista dinâmica, lista encadeada, pilha, fila circular, tabela hash e 5 algoritmos de ordenação escritos do zero, com tabela de complexidade. Testados contra as estruturas nativas com Hypothesis; mypy estrito e CI | Python · pytest · Hypothesis |
 
 <sub>⏳ As APIs rodam no plano gratuito do Render e podem levar até ~1 min para acordar no primeiro acesso.</sub>
 
