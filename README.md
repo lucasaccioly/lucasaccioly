@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o Lucas Accioly 👋</h1>
-<p align="center"><b>Desenvolvedor Full-Stack</b> · React · Node.js/TypeScript · Java/Spring</p>
+<p align="center"><b>Desenvolvedor Full-Stack</b> · React · Node.js/TypeScript · Java/Spring · PHP/Laravel</p>
 
 ---
 
@@ -10,10 +10,10 @@ sempre com foco em código legível, testado e fácil de manter.
 ### 🛠️ O que eu construo
 
 - **Interfaces ricas em React:** editores visuais, dashboards, telas com atualização em tempo real
-- **APIs REST e WebSocket** com Node.js/TypeScript (Express, Socket.io) e Java (Spring Boot)
+- **APIs REST e WebSocket** com Node.js/TypeScript (Express, Socket.io), Java (Spring Boot) e PHP (Laravel, com autenticação Sanctum e eventos em tempo real via SSE)
 - **Processamento assíncrono** com filas no Redis (Bull/BullMQ) para tarefas pesadas e escaláveis
 - **Integrações com IA** (OpenAI) em fluxos automatizados
-- **Controle de acesso por perfil**, relatórios (PDF/Excel) e importação de dados
+- **Controle de acesso por perfil**, relatórios e processamento de PDF (leitura, geração e junção de documentos) e importação de dados
 
 ### 💻 Stack
 
