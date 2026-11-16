@@ -51,6 +51,7 @@ sempre com foco em código legível, testado e fácil de manter.
 
 | Projeto | Descrição | Stack |
 |---|---|---|
+| **[EventPass](https://github.com/lucasaccioly/eventpass)** · [demo](https://eventpass-gsos.onrender.com) | Inscrição e ingresso de eventos: PDF com QR code gerado em fila Redis (Horizon), ingresso e painel atualizados ao vivo via SSE, portaria pelo celular com token Sanctum e check-in atômico. Demo por visitante, testes com Pest e Docker | PHP · Laravel · React · Redis · PostgreSQL |
 | **[FinTrack](https://github.com/lucasaccioly/fintrack)** · [demo](https://fintrack-amber-pi.vercel.app) | Finanças pessoais full-stack: dashboards, orçamentos com alertas, importação de extratos CSV e exportação PDF/Excel. Testes de integração e CI | React · TypeScript · Node · Prisma · PostgreSQL |
 | **[API de Sorteios](https://github.com/lucasaccioly/sorteios-api)** · [demo](https://sorteios-api-dnr8.onrender.com) | API REST de rifas com sorteio auditável (commit-reveal), compra de números segura sob concorrência, JWT e Swagger. Testes de integração com Postgres real e CI | Java · Spring Boot · PostgreSQL |
 | **[FlowBoard](https://github.com/lucasaccioly/kanban-realtime)** · [demo](https://flowboard-indol-pi.vercel.app) | Kanban colaborativo em tempo real: arraste um cartão e ele muda na tela de todos, com presença, convite por link e resumo do quadro por IA. Testes com Postgres real e Socket.io de verdade, CI | React · TypeScript · Socket.io · Node · PostgreSQL |
