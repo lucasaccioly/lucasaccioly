@@ -1,5 +1,6 @@
 <h1 align="center">Olá, eu sou o Lucas Accioly 👋</h1>
 <p align="center"><b>Desenvolvedor Full-Stack</b> · React · Node.js/TypeScript · Java/Spring · PHP/Laravel</p>
+<p align="center"><a href="https://www.linkedin.com/in/lucas-luna-accioly/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a></p>
 
 ---
 
@@ -61,4 +62,5 @@ sempre com foco em código legível, testado e fácil de manter.
 
 ### 📫 Contato
 
+<a href="https://www.linkedin.com/in/lucas-luna-accioly/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/lucasaccioly"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
